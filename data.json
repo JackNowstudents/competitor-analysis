@@ -1,0 +1,240 @@
+{
+  "snapshot_date": "2026-05-13",
+  "generated_at": "2026-05-13T16:06:03",
+  "properties": [
+    {
+      "property_id": "here-leonardo",
+      "property_name": "Leonardo",
+      "operator": "Here Student Living",
+      "source_url": "https://herestudents.com/location/leeds/leonardo/",
+      "snapshot_date": "2026-05-13",
+      "scraped_at": "2026-05-13T16:06:03.283338",
+      "rows": [
+        {
+          "property_id": "here-leonardo",
+          "property_name": "Leonardo",
+          "operator": "Here Student Living",
+          "room_type": "Bronze En Suite",
+          "contract_weeks": null,
+          "price_per_week": 175.0,
+          "currency": "GBP",
+          "room_size_m2": "12.50",
+          "available": true,
+          "notes": "\"from\" price; both 45 and 51 week contracts offered"
+        },
+        {
+          "property_id": "here-leonardo",
+          "property_name": "Leonardo",
+          "operator": "Here Student Living",
+          "room_type": "Bronze Plus En Suite",
+          "contract_weeks": null,
+          "price_per_week": 180.0,
+          "currency": "GBP",
+          "room_size_m2": "13.50",
+          "available": true,
+          "notes": "\"from\" price; both 45 and 51 week contracts offered"
+        },
+        {
+          "property_id": "here-leonardo",
+          "property_name": "Leonardo",
+          "operator": "Here Student Living",
+          "room_type": "Silver Plus En Suite",
+          "contract_weeks": null,
+          "price_per_week": 199.0,
+          "currency": "GBP",
+          "room_size_m2": "16.00",
+          "available": true,
+          "notes": "\"from\" price; both 45 and 51 week contracts offered"
+        },
+        {
+          "property_id": "here-leonardo",
+          "property_name": "Leonardo",
+          "operator": "Here Student Living",
+          "room_type": "Silver En Suite",
+          "contract_weeks": null,
+          "price_per_week": 199.0,
+          "currency": "GBP",
+          "room_size_m2": "13.50",
+          "available": true,
+          "notes": "\"from\" price; both 45 and 51 week contracts offered"
+        },
+        {
+          "property_id": "here-leonardo",
+          "property_name": "Leonardo",
+          "operator": "Here Student Living",
+          "room_type": "Gold En Suite",
+          "contract_weeks": null,
+          "price_per_week": 199.0,
+          "currency": "GBP",
+          "room_size_m2": "16.00",
+          "available": true,
+          "notes": "\"from\" price; both 45 and 51 week contracts offered"
+        },
+        {
+          "property_id": "here-leonardo",
+          "property_name": "Leonardo",
+          "operator": "Here Student Living",
+          "room_type": "Platinum En Suite",
+          "contract_weeks": null,
+          "price_per_week": 205.0,
+          "currency": "GBP",
+          "room_size_m2": "18.00",
+          "available": true,
+          "notes": "\"from\" price; both 45 and 51 week contracts offered"
+        },
+        {
+          "property_id": "here-leonardo",
+          "property_name": "Leonardo",
+          "operator": "Here Student Living",
+          "room_type": "Platinum En Suite (Loft)",
+          "contract_weeks": null,
+          "price_per_week": 215.0,
+          "currency": "GBP",
+          "room_size_m2": "18.00",
+          "available": true,
+          "notes": "\"from\" price; both 45 and 51 week contracts offered"
+        },
+        {
+          "property_id": "here-leonardo",
+          "property_name": "Leonardo",
+          "operator": "Here Student Living",
+          "room_type": "Platinum Plus En Suite",
+          "contract_weeks": null,
+          "price_per_week": 230.0,
+          "currency": "GBP",
+          "room_size_m2": "33.00",
+          "available": true,
+          "notes": "\"from\" price; both 45 and 51 week contracts offered"
+        },
+        {
+          "property_id": "here-leonardo",
+          "property_name": "Leonardo",
+          "operator": "Here Student Living",
+          "room_type": "Platinum Plus En Suite (Loft)",
+          "contract_weeks": null,
+          "price_per_week": 235.0,
+          "currency": "GBP",
+          "room_size_m2": "22.00",
+          "available": true,
+          "notes": "\"from\" price; both 45 and 51 week contracts offered"
+        },
+        {
+          "property_id": "here-leonardo",
+          "property_name": "Leonardo",
+          "operator": "Here Student Living",
+          "room_type": "Silver Studio",
+          "contract_weeks": null,
+          "price_per_week": 285.0,
+          "currency": "GBP",
+          "room_size_m2": "20.00",
+          "available": true,
+          "notes": "\"from\" price; both 45 and 51 week contracts offered"
+        },
+        {
+          "property_id": "here-leonardo",
+          "property_name": "Leonardo",
+          "operator": "Here Student Living",
+          "room_type": "Silver Loft Apartment",
+          "contract_weeks": null,
+          "price_per_week": 285.0,
+          "currency": "GBP",
+          "room_size_m2": "20.00",
+          "available": true,
+          "notes": "\"from\" price; both 45 and 51 week contracts offered"
+        },
+        {
+          "property_id": "here-leonardo",
+          "property_name": "Leonardo",
+          "operator": "Here Student Living",
+          "room_type": "Gold Studio",
+          "contract_weeks": null,
+          "price_per_week": 290.0,
+          "currency": "GBP",
+          "room_size_m2": "23.00",
+          "available": true,
+          "notes": "\"from\" price; both 45 and 51 week contracts offered"
+        },
+        {
+          "property_id": "here-leonardo",
+          "property_name": "Leonardo",
+          "operator": "Here Student Living",
+          "room_type": "Gold Loft Apartment",
+          "contract_weeks": null,
+          "price_per_week": 299.0,
+          "currency": "GBP",
+          "room_size_m2": "24.00",
+          "available": true,
+          "notes": "\"from\" price; both 45 and 51 week contracts offered"
+        },
+        {
+          "property_id": "here-leonardo",
+          "property_name": "Leonardo",
+          "operator": "Here Student Living",
+          "room_type": "Gold Plus Studio",
+          "contract_weeks": null,
+          "price_per_week": 305.0,
+          "currency": "GBP",
+          "room_size_m2": "25.50",
+          "available": true,
+          "notes": "\"from\" price; both 45 and 51 week contracts offered"
+        },
+        {
+          "property_id": "here-leonardo",
+          "property_name": "Leonardo",
+          "operator": "Here Student Living",
+          "room_type": "Gold Plus Loft Apartment",
+          "contract_weeks": null,
+          "price_per_week": 310.0,
+          "currency": "GBP",
+          "room_size_m2": "26.00",
+          "available": true,
+          "notes": "\"from\" price; both 45 and 51 week contracts offered"
+        },
+        {
+          "property_id": "here-leonardo",
+          "property_name": "Leonardo",
+          "operator": "Here Student Living",
+          "room_type": "Platinum Studio",
+          "contract_weeks": null,
+          "price_per_week": 315.0,
+          "currency": "GBP",
+          "room_size_m2": "28.00",
+          "available": true,
+          "notes": "\"from\" price; both 45 and 51 week contracts offered"
+        },
+        {
+          "property_id": "here-leonardo",
+          "property_name": "Leonardo",
+          "operator": "Here Student Living",
+          "room_type": "Platinum Loft Apartment",
+          "contract_weeks": null,
+          "price_per_week": 325.0,
+          "currency": "GBP",
+          "room_size_m2": "28.00",
+          "available": true,
+          "notes": "\"from\" price; both 45 and 51 week contracts offered"
+        },
+        {
+          "property_id": "here-leonardo",
+          "property_name": "Leonardo",
+          "operator": "Here Student Living",
+          "room_type": "2 Bedroom Apartment",
+          "contract_weeks": null,
+          "price_per_week": 270.0,
+          "currency": "GBP",
+          "room_size_m2": "14.50",
+          "available": true,
+          "notes": "\"from\" price; both 45 and 51 week contracts offered"
+        }
+      ],
+      "meta": {
+        "incentive": "Get \u00a3250 Rent Cashback",
+        "amenities": "",
+        "student_crowd_score": 4.73,
+        "google_score": null,
+        "total_beds": null
+      },
+      "error": null
+    }
+  ]
+}
