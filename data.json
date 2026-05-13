@@ -1,6 +1,6 @@
 {
   "snapshot_date": "2026-05-13",
-  "generated_at": "2026-05-13T16:06:03",
+  "generated_at": "2026-05-13T16:09:13",
   "properties": [
     {
       "property_id": "here-leonardo",
@@ -8,7 +8,7 @@
       "operator": "Here Student Living",
       "source_url": "https://herestudents.com/location/leeds/leonardo/",
       "snapshot_date": "2026-05-13",
-      "scraped_at": "2026-05-13T16:06:03.283338",
+      "scraped_at": "2026-05-13T16:06:30.204188",
       "rows": [
         {
           "property_id": "here-leonardo",
@@ -231,6 +231,845 @@
         "incentive": "Get \u00a3250 Rent Cashback",
         "amenities": "",
         "student_crowd_score": 4.73,
+        "google_score": null,
+        "total_beds": null
+      },
+      "error": null
+    },
+    {
+      "property_id": "scape-leeds",
+      "property_name": "Scape Leeds",
+      "operator": "Scape",
+      "source_url": "https://www.scape.com/student-accommodation-leeds/rooms/",
+      "snapshot_date": "2026-05-13",
+      "scraped_at": "2026-05-13T16:06:30.520300",
+      "rows": [
+        {
+          "property_id": "scape-leeds",
+          "property_name": "Scape Leeds",
+          "operator": "Scape",
+          "room_type": "studios standard",
+          "contract_weeks": null,
+          "price_per_week": 322.0,
+          "currency": "GBP",
+          "room_size_m2": null,
+          "available": true,
+          "notes": ""
+        },
+        {
+          "property_id": "scape-leeds",
+          "property_name": "Scape Leeds",
+          "operator": "Scape",
+          "room_type": "apartments three-bedroom Plus",
+          "contract_weeks": null,
+          "price_per_week": 230.0,
+          "currency": "GBP",
+          "room_size_m2": null,
+          "available": true,
+          "notes": ""
+        },
+        {
+          "property_id": "scape-leeds",
+          "property_name": "Scape Leeds",
+          "operator": "Scape",
+          "room_type": "apartments three-bedroom",
+          "contract_weeks": null,
+          "price_per_week": 215.0,
+          "currency": "GBP",
+          "room_size_m2": null,
+          "available": true,
+          "notes": ""
+        },
+        {
+          "property_id": "scape-leeds",
+          "property_name": "Scape Leeds",
+          "operator": "Scape",
+          "room_type": "en-suite standard",
+          "contract_weeks": null,
+          "price_per_week": 213.0,
+          "currency": "GBP",
+          "room_size_m2": null,
+          "available": true,
+          "notes": "'FRESHSTART' = FROM \u00a3177"
+        }
+      ],
+      "meta": {
+        "incentive": "These are our best loved rooms. Use code 'FRESHSTART\u2019 to grab yours and get \u00a3500 off!",
+        "amenities": "",
+        "student_crowd_score": null,
+        "google_score": null,
+        "total_beds": null
+      },
+      "error": null
+    },
+    {
+      "property_id": "iq-altus-house",
+      "property_name": "Altus House",
+      "operator": "IQ Student Accommodation",
+      "source_url": "https://www.iqstudentaccommodation.com/leeds/altus-house",
+      "snapshot_date": "2026-05-13",
+      "scraped_at": "2026-05-13T16:06:37.854764",
+      "rows": [
+        {
+          "property_id": "iq-altus-house",
+          "property_name": "Altus House",
+          "operator": "IQ Student Accommodation",
+          "room_type": "Bronze Studio",
+          "contract_weeks": null,
+          "price_per_week": 312.0,
+          "currency": "GBP",
+          "room_size_m2": "22",
+          "available": true,
+          "notes": "Available"
+        },
+        {
+          "property_id": "iq-altus-house",
+          "property_name": "Altus House",
+          "operator": "IQ Student Accommodation",
+          "room_type": "Silver Studio",
+          "contract_weeks": null,
+          "price_per_week": 321.0,
+          "currency": "GBP",
+          "room_size_m2": "22",
+          "available": true,
+          "notes": "Available"
+        },
+        {
+          "property_id": "iq-altus-house",
+          "property_name": "Altus House",
+          "operator": "IQ Student Accommodation",
+          "room_type": "Copper Studio",
+          "contract_weeks": null,
+          "price_per_week": 307.0,
+          "currency": "GBP",
+          "room_size_m2": null,
+          "available": true,
+          "notes": "Limited availability"
+        },
+        {
+          "property_id": "iq-altus-house",
+          "property_name": "Altus House",
+          "operator": "IQ Student Accommodation",
+          "room_type": "Platinum En Suite Plus",
+          "contract_weeks": null,
+          "price_per_week": 233.0,
+          "currency": "GBP",
+          "room_size_m2": "17-22",
+          "available": true,
+          "notes": "Limited availability"
+        },
+        {
+          "property_id": "iq-altus-house",
+          "property_name": "Altus House",
+          "operator": "IQ Student Accommodation",
+          "room_type": "Gold En Suite Plus",
+          "contract_weeks": null,
+          "price_per_week": 205.0,
+          "currency": "GBP",
+          "room_size_m2": "22",
+          "available": true,
+          "notes": "Limited availability"
+        },
+        {
+          "property_id": "iq-altus-house",
+          "property_name": "Altus House",
+          "operator": "IQ Student Accommodation",
+          "room_type": "Silver En Suite Plus",
+          "contract_weeks": null,
+          "price_per_week": 191.0,
+          "currency": "GBP",
+          "room_size_m2": "14-17",
+          "available": true,
+          "notes": "Limited availability"
+        },
+        {
+          "property_id": "iq-altus-house",
+          "property_name": "Altus House",
+          "operator": "IQ Student Accommodation",
+          "room_type": "Silver En Suite",
+          "contract_weeks": null,
+          "price_per_week": 184.0,
+          "currency": "GBP",
+          "room_size_m2": "14",
+          "available": true,
+          "notes": "Available"
+        },
+        {
+          "property_id": "iq-altus-house",
+          "property_name": "Altus House",
+          "operator": "IQ Student Accommodation",
+          "room_type": "Bronze En Suite Plus",
+          "contract_weeks": null,
+          "price_per_week": 185.0,
+          "currency": "GBP",
+          "room_size_m2": "17",
+          "available": true,
+          "notes": "Limited availability"
+        },
+        {
+          "property_id": "iq-altus-house",
+          "property_name": "Altus House",
+          "operator": "IQ Student Accommodation",
+          "room_type": "Bronze En Suite",
+          "contract_weeks": null,
+          "price_per_week": 179.0,
+          "currency": "GBP",
+          "room_size_m2": "13",
+          "available": true,
+          "notes": "Limited availability"
+        },
+        {
+          "property_id": "iq-altus-house",
+          "property_name": "Altus House",
+          "operator": "IQ Student Accommodation",
+          "room_type": "Copper En Suite Plus",
+          "contract_weeks": null,
+          "price_per_week": 180.0,
+          "currency": "GBP",
+          "room_size_m2": "17",
+          "available": false,
+          "notes": "Fully booked"
+        }
+      ],
+      "meta": {
+        "incentive": "",
+        "amenities": "",
+        "student_crowd_score": null,
+        "google_score": null,
+        "total_beds": null
+      },
+      "error": null
+    },
+    {
+      "property_id": "vita-portland-crescent",
+      "property_name": "Portland Crescent",
+      "operator": "Vita Student",
+      "source_url": "https://www.vitastudent.com/student-accommodation/leeds/portland-crescent/",
+      "snapshot_date": "2026-05-13",
+      "scraped_at": "2026-05-13T16:06:38.457328",
+      "rows": [
+        {
+          "property_id": "vita-portland-crescent",
+          "property_name": "Portland Crescent",
+          "operator": "Vita Student",
+          "room_type": "Classic",
+          "contract_weeks": null,
+          "price_per_week": 320.0,
+          "currency": "GBP",
+          "room_size_m2": "18-23",
+          "available": true,
+          "notes": ""
+        },
+        {
+          "property_id": "vita-portland-crescent",
+          "property_name": "Portland Crescent",
+          "operator": "Vita Student",
+          "room_type": "Premium",
+          "contract_weeks": null,
+          "price_per_week": 334.0,
+          "currency": "GBP",
+          "room_size_m2": "19-29",
+          "available": true,
+          "notes": ""
+        },
+        {
+          "property_id": "vita-portland-crescent",
+          "property_name": "Portland Crescent",
+          "operator": "Vita Student",
+          "room_type": "Deluxe",
+          "contract_weeks": null,
+          "price_per_week": 405.0,
+          "currency": "GBP",
+          "room_size_m2": "24-37",
+          "available": true,
+          "notes": ""
+        },
+        {
+          "property_id": "vita-portland-crescent",
+          "property_name": "Portland Crescent",
+          "operator": "Vita Student",
+          "room_type": "Ultimate Vita",
+          "contract_weeks": null,
+          "price_per_week": 451.0,
+          "currency": "GBP",
+          "room_size_m2": "31-39",
+          "available": true,
+          "notes": ""
+        },
+        {
+          "property_id": "vita-portland-crescent",
+          "property_name": "Portland Crescent",
+          "operator": "Vita Student",
+          "room_type": "Shared",
+          "contract_weeks": null,
+          "price_per_week": 630.0,
+          "currency": "GBP",
+          "room_size_m2": "54-55",
+          "available": true,
+          "notes": ""
+        }
+      ],
+      "meta": {
+        "incentive": "",
+        "amenities": "",
+        "student_crowd_score": null,
+        "google_score": null,
+        "total_beds": null
+      },
+      "error": null
+    },
+    {
+      "property_id": "tribeka-leeds",
+      "property_name": "Tribeka",
+      "operator": "Prestige Student Living",
+      "source_url": "https://prestigestudentliving.com/student-accommodation/leeds/tribeka",
+      "snapshot_date": "2026-05-13",
+      "scraped_at": "2026-05-13T16:06:43.903753",
+      "rows": [
+        {
+          "property_id": "tribeka-leeds",
+          "property_name": "Tribeka",
+          "operator": "Prestige Student Living",
+          "room_type": "6 Bed Ensuite",
+          "contract_weeks": null,
+          "price_per_week": 189.0,
+          "currency": "GBP",
+          "room_size_m2": null,
+          "available": true,
+          "notes": ""
+        },
+        {
+          "property_id": "tribeka-leeds",
+          "property_name": "Tribeka",
+          "operator": "Prestige Student Living",
+          "room_type": "7 Bed Ensuite",
+          "contract_weeks": null,
+          "price_per_week": 199.0,
+          "currency": "GBP",
+          "room_size_m2": null,
+          "available": true,
+          "notes": ""
+        },
+        {
+          "property_id": "tribeka-leeds",
+          "property_name": "Tribeka",
+          "operator": "Prestige Student Living",
+          "room_type": "4 Bed Ensuite",
+          "contract_weeks": null,
+          "price_per_week": 205.0,
+          "currency": "GBP",
+          "room_size_m2": null,
+          "available": true,
+          "notes": ""
+        },
+        {
+          "property_id": "tribeka-leeds",
+          "property_name": "Tribeka",
+          "operator": "Prestige Student Living",
+          "room_type": "6 Bed Premium Ensuite",
+          "contract_weeks": null,
+          "price_per_week": 209.0,
+          "currency": "GBP",
+          "room_size_m2": null,
+          "available": true,
+          "notes": ""
+        }
+      ],
+      "meta": {
+        "incentive": "",
+        "amenities": "",
+        "student_crowd_score": null,
+        "google_score": null,
+        "total_beds": null
+      },
+      "error": null
+    },
+    {
+      "property_id": "symons-house",
+      "property_name": "Symons House",
+      "operator": "Prestige Student Living",
+      "source_url": "https://www.prestigestudentliving.com/student-accommodation/leeds/symons-house",
+      "snapshot_date": "2026-05-13",
+      "scraped_at": "2026-05-13T16:07:27.754702",
+      "rows": [
+        {
+          "property_id": "symons-house",
+          "property_name": "Symons House",
+          "operator": "Prestige Student Living",
+          "room_type": "Club Studio",
+          "contract_weeks": null,
+          "price_per_week": 265.0,
+          "currency": "GBP",
+          "room_size_m2": null,
+          "available": true,
+          "notes": ""
+        },
+        {
+          "property_id": "symons-house",
+          "property_name": "Symons House",
+          "operator": "Prestige Student Living",
+          "room_type": "Penthouse 2 Bed Apartment",
+          "contract_weeks": null,
+          "price_per_week": 295.0,
+          "currency": "GBP",
+          "room_size_m2": null,
+          "available": true,
+          "notes": ""
+        }
+      ],
+      "meta": {
+        "incentive": "\u00a3250 Cashback (Club Studio)",
+        "amenities": "",
+        "student_crowd_score": null,
+        "google_score": null,
+        "total_beds": null
+      },
+      "error": null
+    },
+    {
+      "property_id": "brotherton-house",
+      "property_name": "Brotherton House",
+      "operator": "Study Inn",
+      "source_url": "https://www.studyinn.com/leeds/brotherton-house",
+      "snapshot_date": "2026-05-13",
+      "scraped_at": "2026-05-13T16:08:11.742504",
+      "rows": [
+        {
+          "property_id": "brotherton-house",
+          "property_name": "Brotherton House",
+          "operator": "Study Inn",
+          "room_type": "Gold En-suite Serviced Apartment",
+          "contract_weeks": null,
+          "price_per_week": 190.0,
+          "currency": "GBP",
+          "room_size_m2": null,
+          "available": true,
+          "notes": ""
+        },
+        {
+          "property_id": "brotherton-house",
+          "property_name": "Brotherton House",
+          "operator": "Study Inn",
+          "room_type": "Gold Plus En-suite Serviced Apartment",
+          "contract_weeks": null,
+          "price_per_week": 195.0,
+          "currency": "GBP",
+          "room_size_m2": null,
+          "available": true,
+          "notes": ""
+        },
+        {
+          "property_id": "brotherton-house",
+          "property_name": "Brotherton House",
+          "operator": "Study Inn",
+          "room_type": "Platinum En-suite Serviced Apartment",
+          "contract_weeks": null,
+          "price_per_week": 200.0,
+          "currency": "GBP",
+          "room_size_m2": null,
+          "available": true,
+          "notes": "summer tab: From \u00a3175/Week"
+        },
+        {
+          "property_id": "brotherton-house",
+          "property_name": "Brotherton House",
+          "operator": "Study Inn",
+          "room_type": "Platinum Plus En-suite Serviced Apartment",
+          "contract_weeks": null,
+          "price_per_week": 205.0,
+          "currency": "GBP",
+          "room_size_m2": null,
+          "available": true,
+          "notes": "summer tab: From \u00a3180/Week"
+        },
+        {
+          "property_id": "brotherton-house",
+          "property_name": "Brotherton House",
+          "operator": "Study Inn",
+          "room_type": "Diamond En-suite Serviced Apartment",
+          "contract_weeks": null,
+          "price_per_week": 210.0,
+          "currency": "GBP",
+          "room_size_m2": null,
+          "available": true,
+          "notes": ""
+        },
+        {
+          "property_id": "brotherton-house",
+          "property_name": "Brotherton House",
+          "operator": "Study Inn",
+          "room_type": "Sapphire En-suite Serviced Apartment",
+          "contract_weeks": null,
+          "price_per_week": 235.0,
+          "currency": "GBP",
+          "room_size_m2": null,
+          "available": true,
+          "notes": "summer tab: From \u00a3195/Week"
+        },
+        {
+          "property_id": "brotherton-house",
+          "property_name": "Brotherton House",
+          "operator": "Study Inn",
+          "room_type": "Sapphire Plus En-suite Serviced Apartment",
+          "contract_weeks": null,
+          "price_per_week": 240.0,
+          "currency": "GBP",
+          "room_size_m2": null,
+          "available": true,
+          "notes": ""
+        },
+        {
+          "property_id": "brotherton-house",
+          "property_name": "Brotherton House",
+          "operator": "Study Inn",
+          "room_type": "Platinum Plus Studio",
+          "contract_weeks": null,
+          "price_per_week": null,
+          "currency": "GBP",
+          "room_size_m2": null,
+          "available": false,
+          "notes": "Sold Out (academic year)"
+        },
+        {
+          "property_id": "brotherton-house",
+          "property_name": "Brotherton House",
+          "operator": "Study Inn",
+          "room_type": "Diamond Plus Studio",
+          "contract_weeks": null,
+          "price_per_week": null,
+          "currency": "GBP",
+          "room_size_m2": null,
+          "available": false,
+          "notes": "Sold Out (academic year)"
+        },
+        {
+          "property_id": "brotherton-house",
+          "property_name": "Brotherton House",
+          "operator": "Study Inn",
+          "room_type": "Sapphire Studio",
+          "contract_weeks": null,
+          "price_per_week": 300.0,
+          "currency": "GBP",
+          "room_size_m2": null,
+          "available": true,
+          "notes": ""
+        },
+        {
+          "property_id": "brotherton-house",
+          "property_name": "Brotherton House",
+          "operator": "Study Inn",
+          "room_type": "Sapphire Plus Studio",
+          "contract_weeks": null,
+          "price_per_week": 305.0,
+          "currency": "GBP",
+          "room_size_m2": null,
+          "available": true,
+          "notes": ""
+        }
+      ],
+      "meta": {
+        "incentive": "View Today! Book Today! Save \u00a3100!",
+        "amenities": "",
+        "student_crowd_score": null,
+        "google_score": null,
+        "total_beds": null
+      },
+      "error": null
+    },
+    {
+      "property_id": "threadworks-leeds",
+      "property_name": "Threadworks",
+      "operator": "Mezzino",
+      "source_url": "https://www.mezzino.com/properties/threadworks",
+      "snapshot_date": "2026-05-13",
+      "scraped_at": "2026-05-13T16:08:21.424614",
+      "rows": [],
+      "meta": {
+        "incentive": "\u00a3250 Cashback",
+        "amenities": "",
+        "student_crowd_score": null,
+        "google_score": null,
+        "total_beds": null
+      },
+      "error": null
+    },
+    {
+      "property_id": "fabric-works-leeds",
+      "property_name": "The Fabric Works",
+      "operator": "Prestige Student Living",
+      "source_url": "https://prestigestudentliving.com/student-accommodation/leeds/the-fabric-works",
+      "snapshot_date": "2026-05-13",
+      "scraped_at": "2026-05-13T16:08:21.880952",
+      "rows": [
+        {
+          "property_id": "fabric-works-leeds",
+          "property_name": "The Fabric Works",
+          "operator": "Prestige Student Living",
+          "room_type": "Classic Studio Floors 1-5",
+          "contract_weeks": null,
+          "price_per_week": 199.0,
+          "currency": "GBP",
+          "room_size_m2": null,
+          "available": true,
+          "notes": ""
+        },
+        {
+          "property_id": "fabric-works-leeds",
+          "property_name": "The Fabric Works",
+          "operator": "Prestige Student Living",
+          "room_type": "Classic Studio Floors 6-10",
+          "contract_weeks": null,
+          "price_per_week": 231.0,
+          "currency": "GBP",
+          "room_size_m2": null,
+          "available": true,
+          "notes": ""
+        },
+        {
+          "property_id": "fabric-works-leeds",
+          "property_name": "The Fabric Works",
+          "operator": "Prestige Student Living",
+          "room_type": "Premium Studio Top Floor",
+          "contract_weeks": null,
+          "price_per_week": 275.0,
+          "currency": "GBP",
+          "room_size_m2": null,
+          "available": true,
+          "notes": ""
+        },
+        {
+          "property_id": "fabric-works-leeds",
+          "property_name": "The Fabric Works",
+          "operator": "Prestige Student Living",
+          "room_type": "Premium Terrace Studio",
+          "contract_weeks": null,
+          "price_per_week": 275.0,
+          "currency": "GBP",
+          "room_size_m2": null,
+          "available": true,
+          "notes": ""
+        },
+        {
+          "property_id": "fabric-works-leeds",
+          "property_name": "The Fabric Works",
+          "operator": "Prestige Student Living",
+          "room_type": "Superior Adaptable Studio Floors 1-5",
+          "contract_weeks": null,
+          "price_per_week": 279.0,
+          "currency": "GBP",
+          "room_size_m2": null,
+          "available": true,
+          "notes": ""
+        },
+        {
+          "property_id": "fabric-works-leeds",
+          "property_name": "The Fabric Works",
+          "operator": "Prestige Student Living",
+          "room_type": "Superior Studio Floors 1-5",
+          "contract_weeks": null,
+          "price_per_week": 285.0,
+          "currency": "GBP",
+          "room_size_m2": null,
+          "available": true,
+          "notes": ""
+        },
+        {
+          "property_id": "fabric-works-leeds",
+          "property_name": "The Fabric Works",
+          "operator": "Prestige Student Living",
+          "room_type": "Superior Adaptable Studio Floors 6-10",
+          "contract_weeks": null,
+          "price_per_week": 289.0,
+          "currency": "GBP",
+          "room_size_m2": null,
+          "available": true,
+          "notes": ""
+        },
+        {
+          "property_id": "fabric-works-leeds",
+          "property_name": "The Fabric Works",
+          "operator": "Prestige Student Living",
+          "room_type": "Superior Studio Floors 6-10",
+          "contract_weeks": null,
+          "price_per_week": 298.0,
+          "currency": "GBP",
+          "room_size_m2": null,
+          "available": true,
+          "notes": ""
+        }
+      ],
+      "meta": {
+        "incentive": "Bus Pass Worth \u00a3495!",
+        "amenities": "",
+        "student_crowd_score": null,
+        "google_score": null,
+        "total_beds": null
+      },
+      "error": null
+    },
+    {
+      "property_id": "refinery-leeds",
+      "property_name": "The Refinery",
+      "operator": "Fresh",
+      "source_url": "https://www.thisisfresh.com/leeds/the-refinery",
+      "snapshot_date": "2026-05-13",
+      "scraped_at": "2026-05-13T16:09:05.574217",
+      "rows": [
+        {
+          "property_id": "refinery-leeds",
+          "property_name": "The Refinery",
+          "operator": "Fresh",
+          "room_type": "Silver Studio",
+          "contract_weeks": null,
+          "price_per_week": 270.0,
+          "currency": "GBP",
+          "room_size_m2": "28",
+          "available": true,
+          "notes": ""
+        },
+        {
+          "property_id": "refinery-leeds",
+          "property_name": "The Refinery",
+          "operator": "Fresh",
+          "room_type": "Platinum En Suite",
+          "contract_weeks": null,
+          "price_per_week": 195.0,
+          "currency": "GBP",
+          "room_size_m2": "20",
+          "available": true,
+          "notes": ""
+        },
+        {
+          "property_id": "refinery-leeds",
+          "property_name": "The Refinery",
+          "operator": "Fresh",
+          "room_type": "Bronze Studio",
+          "contract_weeks": null,
+          "price_per_week": 260.0,
+          "currency": "GBP",
+          "room_size_m2": "28",
+          "available": true,
+          "notes": ""
+        },
+        {
+          "property_id": "refinery-leeds",
+          "property_name": "The Refinery",
+          "operator": "Fresh",
+          "room_type": "Silver En Suite",
+          "contract_weeks": null,
+          "price_per_week": 170.0,
+          "currency": "GBP",
+          "room_size_m2": "13.5",
+          "available": true,
+          "notes": ""
+        },
+        {
+          "property_id": "refinery-leeds",
+          "property_name": "The Refinery",
+          "operator": "Fresh",
+          "room_type": "Copper En Suite",
+          "contract_weeks": null,
+          "price_per_week": 150.0,
+          "currency": "GBP",
+          "room_size_m2": "13.5",
+          "available": true,
+          "notes": ""
+        },
+        {
+          "property_id": "refinery-leeds",
+          "property_name": "The Refinery",
+          "operator": "Fresh",
+          "room_type": "Gold Studio",
+          "contract_weeks": null,
+          "price_per_week": 280.0,
+          "currency": "GBP",
+          "room_size_m2": "28",
+          "available": true,
+          "notes": ""
+        },
+        {
+          "property_id": "refinery-leeds",
+          "property_name": "The Refinery",
+          "operator": "Fresh",
+          "room_type": "Gold En Suite",
+          "contract_weeks": null,
+          "price_per_week": 180.0,
+          "currency": "GBP",
+          "room_size_m2": "13.5",
+          "available": true,
+          "notes": ""
+        },
+        {
+          "property_id": "refinery-leeds",
+          "property_name": "The Refinery",
+          "operator": "Fresh",
+          "room_type": "Bronze En Suite",
+          "contract_weeks": null,
+          "price_per_week": 160.0,
+          "currency": "GBP",
+          "room_size_m2": "13.5",
+          "available": true,
+          "notes": ""
+        },
+        {
+          "property_id": "refinery-leeds",
+          "property_name": "The Refinery",
+          "operator": "Fresh",
+          "room_type": "Platinum Studio",
+          "contract_weeks": null,
+          "price_per_week": 290.0,
+          "currency": "GBP",
+          "room_size_m2": "28",
+          "available": true,
+          "notes": ""
+        }
+      ],
+      "meta": {
+        "incentive": "",
+        "amenities": "",
+        "student_crowd_score": null,
+        "google_score": null,
+        "total_beds": null
+      },
+      "error": null
+    },
+    {
+      "property_id": "fusion-leeds",
+      "property_name": "Fusion",
+      "operator": "Fusion Students",
+      "source_url": "https://www.fusionstudents.co.uk/property/leeds/",
+      "snapshot_date": "2026-05-13",
+      "scraped_at": "2026-05-13T16:09:12.677526",
+      "rows": [
+        {
+          "property_id": "fusion-leeds",
+          "property_name": "Fusion",
+          "operator": "Fusion Students",
+          "room_type": "Ensuite",
+          "contract_weeks": null,
+          "price_per_week": 195.0,
+          "currency": "GBP",
+          "room_size_m2": null,
+          "available": true,
+          "notes": "\"from\" price; finer variants may live on the tier sub-page"
+        },
+        {
+          "property_id": "fusion-leeds",
+          "property_name": "Fusion",
+          "operator": "Fusion Students",
+          "room_type": "Studio",
+          "contract_weeks": null,
+          "price_per_week": 275.0,
+          "currency": "GBP",
+          "room_size_m2": null,
+          "available": true,
+          "notes": "\"from\" price; finer variants may live on the tier sub-page"
+        }
+      ],
+      "meta": {
+        "incentive": "",
+        "amenities": "",
+        "student_crowd_score": null,
         "google_score": null,
         "total_beds": null
       },
